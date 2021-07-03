@@ -1,7 +1,8 @@
 
 
  &nbsp;📂  [``Login Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/activity_main.xml) <br>
- &nbsp;📂  [``Get Started Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/layout_login.xml) 
+ &nbsp;📂  [``Get Started Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/layout_login.xml) <br>
+ &nbsp;📂  [``Login Page UI Desing 2``](https://github.com/fatihhernn/Android_login_desing/blob/master/app/src/main/res/layout/activity_main.xml) <br>
  
  <table>
   <tr>
@@ -17,4 +18,8 @@
    <td>
           <img src="https://github.com/fatihhernn/Android_UI_Desing/blob/master/getstarted.jpg" width="200" height="400" alt=".netProject">
    </td>
+   <td>
+          <img src="https://github.com/fatihhernn/Android_UI_Desing/blob/master/getstarted.jpg" width="200" height="400" alt=".netProject">
+   </td>
  </table>
+ 
