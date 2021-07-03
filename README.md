@@ -2,7 +2,7 @@
 
  &nbsp;📂  [``Login Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/activity_main.xml) <br>
  &nbsp;📂  [``Get Started Page UI Desing XML``](https://github.com/fatihhernn/Android_UI_Desing/blob/master/app/src/main/res/layout/layout_login.xml) <br>
- &nbsp;📂  [``Login Page UI Desing 2``](https://github.com/fatihhernn/Android_login_desing/blob/master/app/src/main/res/layout/activity_main.xml) <br>
+ &nbsp;📂  [``Login Page UI Desing 2 XML``](https://github.com/fatihhernn/Android_login_desing/blob/master/app/src/main/res/layout/activity_main.xml) <br>
  
  <table>
   <tr>
