@@ -20,7 +20,7 @@
           <img src="https://github.com/fatihhernn/Android_UI_Desing/blob/master/getstarted.jpg" width="200" height="400" alt=".netProject">
    </td>
    <td>
-          <img src="https://github.com/fatihhernn/Android_UI_Desing/blob/master/getstarted.jpg" width="200" height="400" alt=".netProject">
+          <img src="https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-views-fatiheren/blob/main/Screenshot_2021-07-04-00-53-27-343_com.fatihhernn.materialloginpage.jpg" width="200" height="400" alt=".netProject">
    </td>
  </table>
  
