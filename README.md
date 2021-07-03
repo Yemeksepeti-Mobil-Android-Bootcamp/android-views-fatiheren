@@ -8,6 +8,7 @@
   <tr>
      <td>Get Started Page UI Desing</td>
      <td>Login Page UI Desing</td>
+    <td> Login Page UI Desing 2</td>
   </tr>
   
   <tr>
